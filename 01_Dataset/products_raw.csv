@@ -1,0 +1,307 @@
+Product_ID,Category,Sub_Category,Product_Name,Brand,Unit_Cost,Unit_Price
+PROD0001,Grocery,Flour,SmartBuy Flour 955,SmartBuy,1012.62,1379.15
+PROD0002,Grocery,Tea,NatureNest Tea 916,NatureNest,2003.75,2933.27
+PROD0003,Grocery,Cooking Oil,DailyBest Cooking Oil 964,DailyBest,348.63,524.69
+PROD0004,Grocery,Cooking Oil,DailyBest Cooking Oil 921,DailyBest,1051.75,1507.26
+PROD0005,Grocery,Coffee,UrbanMart Coffee 726,UrbanMart,1536.08,2354.74
+PROD0006,Grocery,Rice,UrbanMart Rice 521,UrbanMart,1218.04,1679.32
+PROD0007,Grocery,Coffee,FreshChoice Coffee 112,FreshChoice,177.07,259.79
+PROD0008,Grocery,Spices,PrimeLife Spices 733,PrimeLife,1307.37,1941.14
+PROD0009,Grocery,Flour,SmartBuy Flour 454,SmartBuy,1661.05,2079.21
+PROD0010,Grocery,Tea,UrbanMart Tea 727,UrbanMart,2100.8,2974.57
+PROD0011,Grocery,Rice,FreshChoice Rice 969,FreshChoice,1615.63,1943.88
+PROD0012,Grocery,Coffee,NatureNest Coffee 603,NatureNest,2176.15,2523.63
+PROD0013,Grocery,Sugar,HomePlus Sugar 619,HomePlus,840.62,1065.42
+PROD0014,Grocery,Spices,SmartBuy Spices 570,SmartBuy,1020.13,1269.6
+PROD0015,Grocery,Coffee,NatureNest Coffee 423,NatureNest,238.29,329.84
+PROD0016, grocery ,Flour,NatureNest Flour 513,NatureNest,1868.19,2109.97
+PROD0017,Grocery,Tea,FreshChoice Tea 193,FreshChoice,1401.68,1570.01
+PROD0018,Grocery,Pulses,HomePlus Pulses 449,HomePlus,1643.4,2237.97
+PROD0019,Grocery,Sugar,FreshChoice Sugar 439,FreshChoice,2045.14,3205.73
+PROD0020,Grocery,Coffee,PrimeLife Coffee 877,PrimeLife,1795.47,2119.43
+PROD0021,Grocery,Spices,FreshChoice Spices 919,FreshChoice,866.57,1351.71
+PROD0022,Grocery,Pulses,PrimeLife Pulses 268,PrimeLife,1761.2,2015.27
+PROD0023,Grocery,Coffee,UrbanMart Coffee 519,UrbanMart,2058.16,3115.09
+PROD0024,Grocery,Flour,ValueMax Flour 972,ValueMax,1534.91,1871.67
+PROD0025,Grocery,Tea,HomePlus Tea 833,HomePlus,1153.47,1769.6
+PROD0026,Grocery,Sugar,DailyBest Sugar 748,DailyBest,1897.73,2172.23
+PROD0027,Grocery,Flour,NatureNest Flour 616,NatureNest,1154.32,1653.38
+PROD0028,Grocery,Cooking Oil,NatureNest Cooking Oil 666,NatureNest,30.76,46.45
+PROD0029,Grocery,Tea,NatureNest Tea 281,NatureNest,2312.44,3547.22
+PROD0030,Grocery,Cooking Oil,UrbanMart Cooking Oil 720,UrbanMart,276.81,406.49
+PROD0031,Grocery,Sugar,SmartBuy Sugar 809,SmartBuy,1058.29,1526.87
+PROD0032,Grocery,Spices,ValueMax Spices 401,ValueMax,1006.72,1310.46
+PROD0033,Grocery,Coffee,UrbanMart Coffee 866,UrbanMart,362.69,522.03
+PROD0034,Grocery,Pulses,PrimeLife Pulses 747,PrimeLife,1785.45,2884.97
+PROD0035,Grocery,Spices,HomePlus Spices 803,HomePlus,540.09,809.39
+PROD0036,Grocery,Sugar,UrbanMart Sugar 282,UrbanMart,2453.71,3593.57
+PROD0037,Grocery,Sugar,DailyBest Sugar 696,DailyBest,1906.72,2703.75
+PROD0038,Grocery,Tea,ValueMax Tea 113,ValueMax,2196.14,2951.32
+PROD0039,Grocery,Flour,FreshChoice Flour 157,FreshChoice,964.56,1107.43
+PROD0040,Grocery,Spices,ValueMax Spices 393,ValueMax,1880.46,2266.51
+PROD0041,Grocery,Pulses,UrbanMart Pulses 402,UrbanMart,2101.67,3123.11
+PROD0042,Grocery,Spices,FreshChoice Spices 730,FreshChoice,909.53,1236.85
+PROD0043,Grocery,Spices,SmartBuy Spices 917,SmartBuy,609.24,935.6
+PROD0044,Grocery,Pulses,FreshChoice Pulses 907,FreshChoice,2317.68,3071.86
+PROD0045,Grocery,Sugar,FreshChoice Sugar 735,FreshChoice,52.15,65.35
+PROD0046,Grocery,Coffee,HomePlus Coffee 763,HomePlus,2280.49,3405.81
+PROD0047,Grocery,Sugar,HomePlus Sugar 401,HomePlus,1944.84,3172.18
+PROD0048,Grocery,Coffee,UrbanMart Coffee 277,UrbanMart,2458.96,2851.09
+PROD0049,Grocery,Flour,SmartBuy Flour 370,SmartBuy,120.77,153.13
+PROD0050,Grocery,Cooking Oil,UrbanMart Cooking Oil 438,UrbanMart,1468.29,1842.94
+PROD0051,Beverages,Energy Drink,UrbanMart Energy Drink 711,UrbanMart,119.05,191.93
+PROD0052,Beverages,Juice,ValueMax Juice 466,ValueMax,1236.57,1760.28
+PROD0053,Beverages,Juice,PrimeLife Juice 633,PrimeLife,1322.98,2152.76
+PROD0054,Beverages,Juice,UrbanMart Juice 194,UrbanMart,1051.51,1476.98
+PROD0055,Beverages,Mineral Water,HomePlus Mineral Water 439,HomePlus,2210.82,3253.37
+PROD0056,Beverages,Mineral Water,ValueMax Mineral Water 643,ValueMax,561.74,853.23
+PROD0057,Beverages,Energy Drink,FreshChoice Energy Drink 346,FreshChoice,304.51,396.89
+PROD0058,Beverages,Green Tea,HomePlus Green Tea 428,HomePlus,2398.06,3553.33
+PROD0059,Beverages,Energy Drink,DailyBest Energy Drink 389,DailyBest,976.97,1373.94
+PROD0060,Beverages,Juice,PrimeLife Juice 598,PrimeLife,1295.49,1800.25
+PROD0061,Beverages,Juice,ValueMax Juice 626,ValueMax,2247.74,2746.81
+PROD0062,Beverages,Juice,DailyBest Juice 650,DailyBest,435.14,707.9
+PROD0063,Beverages,Green Tea,FreshChoice Green Tea 744,FreshChoice,1574.79,1939.69
+PROD0064,Beverages,Soft Drink,SmartBuy Soft Drink 948,SmartBuy,2092.45,2571.53
+PROD0065,Beverages,Energy Drink,DailyBest Energy Drink 570,DailyBest,1872.29,2249.54
+PROD0066,Beverages,Mineral Water,FreshChoice Mineral Water 913,FreshChoice,237.05,272.31
+PROD0067,Beverages,Mineral Water,DailyBest Mineral Water 364,DailyBest,1445.91,1793.87
+PROD0068,Beverages,Energy Drink,SmartBuy Energy Drink 423,SmartBuy,1138.79,1519.55
+PROD0069,Beverages,Juice,SmartBuy Juice 756,SmartBuy,1689.78,2371.54
+PROD0070,Beverages,Green Tea,DailyBest Green Tea 817,DailyBest,1894.78,2710.24
+PROD0071,Beverages,Juice,PrimeLife Juice 905,PrimeLife,2321.56,2730.74
+PROD0072,Beverages,Mineral Water,DailyBest Mineral Water 490,DailyBest,718.16,1157.06
+PROD0073,Beverages,Energy Drink,FreshChoice Energy Drink 239,FreshChoice,1195.49,1676.96
+PROD0074,Beverages,Energy Drink,ValueMax Energy Drink 793,ValueMax,2401.13,2872.62
+PROD0075,Beverages,Mineral Water,FreshChoice Mineral Water 226,FreshChoice,1392.74,1969.59
+PROD0076,Beverages,Juice,FreshChoice Juice 660,FreshChoice,1440.34,1914.01
+PROD0077,Beverages,Juice,ValueMax Juice 843,ValueMax,540.93,818.4
+PROD0078,Beverages,Mineral Water,HomePlus Mineral Water 624,HomePlus,1043.38,1525.78
+PROD0079,Beverages,Soft Drink,UrbanMart Soft Drink 358,UrbanMart,476.3,689.18
+PROD0080,Beverages,Soft Drink,DailyBest Soft Drink 972,DailyBest,469.77,725.24
+PROD0081,Beverages,Juice,NatureNest Juice 787,NatureNest,1618.79,1875.8
+PROD0082,Beverages,Juice,ValueMax Juice 598,ValueMax,263.54,396.51
+PROD0083,Beverages,Mineral Water,PrimeLife Mineral Water 202,PrimeLife,337.97,495.94
+PROD0084,Beverages,Mineral Water,DailyBest Mineral Water 561,DailyBest,2252.29,2901.91
+PROD0085,Beverages,Mineral Water,ValueMax Mineral Water 680,ValueMax,1739.78,2089.07
+PROD0086,Beverages,Mineral Water,PrimeLife Mineral Water 420,PrimeLife,2397.47,2899.45
+PROD0087,Beverages,Soft Drink,HomePlus Soft Drink 383,HomePlus,1786.25,2607.29
+PROD0088,Beverages,Mineral Water,UrbanMart Mineral Water 591,UrbanMart,1705.36,2209.68
+PROD0089,BEVERAGES,Energy Drink,NatureNest Energy Drink 664,NatureNest,909.68,1166.12
+PROD0090,Beverages,Juice,UrbanMart Juice 387,UrbanMart,1620.97,1885.91
+PROD0091,Beverages,Soft Drink,HomePlus Soft Drink 178,HomePlus,672.82,1069.62
+PROD0092,Beverages,Juice,FreshChoice Juice 932,FreshChoice,2126.98,3094.25
+PROD0093,Beverages,Green Tea,SmartBuy Green Tea 137,SmartBuy,1927.62,2376.3
+PROD0094,Beverages,Green Tea,ValueMax Green Tea 583,ValueMax,1367.8,2255.95
+PROD0095,Beverages,Soft Drink,PrimeLife Soft Drink 703,PrimeLife,993.4,1581.95
+PROD0096,Beverages,Mineral Water,UrbanMart Mineral Water 506,UrbanMart,1172.46,1630.33
+PROD0097,Beverages,Mineral Water,FreshChoice Mineral Water 925,FreshChoice,1663.44,2610.65
+PROD0098,Beverages,Green Tea,UrbanMart Green Tea 263,UrbanMart,1897.87,2266.81
+PROD0099,Beverages,Soft Drink,UrbanMart Soft Drink 467,UrbanMart,1845.08,2539.3
+PROD0100,Beverages,Juice,HomePlus Juice 370,HomePlus,1908.45,2371.87
+PROD0101,Snacks,Namkeen,HomePlus Namkeen 910,HomePlus,126.16,155.13
+PROD0102,Snacks,Namkeen,SmartBuy Namkeen 147,SmartBuy,1184.79,1612.45
+PROD0103,Snacks,Biscuits,PrimeLife Biscuits 748,PrimeLife,276.0,450.78
+PROD0104,Snacks,Namkeen,ValueMax Namkeen 485,ValueMax,1455.01,2069.29
+PROD0105,Snacks,Chocolate,PrimeLife Chocolate 179,PrimeLife,1477.44,2358.08
+PROD0106,Snacks,Cookies,ValueMax Cookies 628,ValueMax,953.3,1526.08
+PROD0107,Snacks,Chocolate,PrimeLife Chocolate 911,PrimeLife,2046.75,2666.64
+PROD0108,Snacks,Chocolate,FreshChoice Chocolate 269,FreshChoice,1264.56,1509.45
+PROD0109,Snacks,Chips,DailyBest Chips 253,DailyBest,1296.06,1644.48
+PROD0110,Snacks,Chips,UrbanMart Chips 221,UrbanMart,918.31,1377.62
+PROD0111,Snacks,Chips,SmartBuy Chips 593,SmartBuy,2031.71,3051.09
+PROD0112,Snacks,Chocolate,NatureNest Chocolate 953,NatureNest,542.55,654.02
+PROD0113,Snacks,Chocolate,FreshChoice Chocolate 706,FreshChoice,624.3,741.53
+PROD0114,Snacks,Chips,UrbanMart Chips 686,UrbanMart,1581.26,1803.86
+PROD0115,Snacks,Chips,FreshChoice Chips 629,FreshChoice,432.53,695.9
+PROD0116,Snacks,Chocolate,FreshChoice Chocolate 941,FreshChoice,2198.7,3310.86
+PROD0117,Snacks,Namkeen,DailyBest Namkeen 582,DailyBest,557.15,803.11
+PROD0118,Snacks,Chocolate,UrbanMart Chocolate 246,UrbanMart,564.02,754.49
+PROD0119,Snacks,Cookies,UrbanMart Cookies 271,UrbanMart,1565.57,2177.28
+PROD0120,Snacks,Namkeen,NatureNest Namkeen 487,NatureNest,1499.4,1734.04
+PROD0121,Snacks,Chocolate,UrbanMart Chocolate 980,UrbanMart,289.25,354.98
+PROD0122,Snacks,Cookies,SmartBuy Cookies 281,SmartBuy,2069.76,2982.36
+PROD0123,Snacks,Chocolate,FreshChoice Chocolate 870,FreshChoice,2196.83,3079.2
+PROD0124,Snacks,Biscuits,DailyBest Biscuits 717,DailyBest,1215.96,1445.87
+PROD0125,Snacks,Cookies,FreshChoice Cookies 764,FreshChoice,2244.48,3435.58
+PROD0126,Snacks,Chocolate,SmartBuy Chocolate 642,SmartBuy,938.54,1072.77
+PROD0127,Snacks,Chocolate,HomePlus Chocolate 887,HomePlus,2347.29,3228.76
+PROD0128,Snacks,Chocolate,PrimeLife Chocolate 879,PrimeLife,1480.84,2240.42
+PROD0129,Snacks,Cookies,DailyBest Cookies 884,DailyBest,1075.21,1349.28
+PROD0130,Snacks,Chips,DailyBest Chips 518,DailyBest,722.5,1144.94
+PROD0131,Snacks,Namkeen,HomePlus Namkeen 107,HomePlus,33.56,50.81
+PROD0132,Snacks,Cookies,DailyBest Cookies 310,DailyBest,1309.01,1726.28
+PROD0133,Snacks,Namkeen,SmartBuy Namkeen 767,SmartBuy,918.43,1103.98
+PROD0134,Snacks,Cookies,ValueMax Cookies 678,ValueMax,668.03,938.0
+PROD0135,Snacks,Namkeen,ValueMax Namkeen 308,ValueMax,2479.66,3299.56
+PROD0136,Snacks,Chocolate,NatureNest Chocolate 595,NatureNest,463.22,656.07
+PROD0137,Snacks,Namkeen,ValueMax Namkeen 507,ValueMax,1452.57,2222.9
+PROD0138,Snacks,Chips,DailyBest Chips 816,DailyBest,1874.58,2543.23
+PROD0139,Snacks,Chips,DailyBest Chips 446,DailyBest,551.86,735.24
+PROD0140,Snacks,Cookies,FreshChoice Cookies 105,FreshChoice,418.63,682.88
+PROD0141,Snacks,Biscuits,UrbanMart Biscuits 190,UrbanMart,1189.74,1711.0
+PROD0142,Snacks,Biscuits,ValueMax Biscuits 138,ValueMax,569.99,662.57
+PROD0143,Snacks,Chocolate,SmartBuy Chocolate 828,SmartBuy,1542.63,2153.72
+PROD0144,Snacks,Cookies,FreshChoice Cookies 755,FreshChoice,2365.38,3677.51
+PROD0145,Snacks,Chocolate,NatureNest Chocolate 923,NatureNest,46.56,73.14
+PROD0146,Snacks,Cookies,ValueMax Cookies 622,ValueMax,502.97,772.31
+PROD0147,Snacks,Cookies,HomePlus Cookies 468,HomePlus,1545.67,2283.31
+PROD0148,Snacks,Chips,FreshChoice Chips 382,FreshChoice,2439.6,2844.64
+PROD0149,Snacks,Chocolate,PrimeLife Chocolate 305,PrimeLife,1680.76,2243.63
+PROD0150,Snacks,Cookies,FreshChoice Cookies 192,,1847.58,2136.48
+PROD0151,Household,Garbage Bags,ValueMax Garbage Bags 696,ValueMax,1820.82,2578.88
+PROD0152,Household,Dishwash,PrimeLife Dishwash 720,PrimeLife,2408.95,3051.05
+PROD0153,Household,Floor Cleaner,NatureNest Floor Cleaner 367,NatureNest,2325.69,3313.41
+PROD0154,Household,Floor Cleaner,SmartBuy Floor Cleaner 615,SmartBuy,1275.47,1806.16
+PROD0155,Household,Dishwash,PrimeLife Dishwash 363,PrimeLife,2368.6,3660.81
+PROD0156,Household,Garbage Bags,ValueMax Garbage Bags 676,ValueMax,1741.6,2842.31
+PROD0157,Household,Tissue,HomePlus Tissue 569,HomePlus,1898.53,3093.57
+PROD0158,Household,Tissue,FreshChoice Tissue 491,FreshChoice,1215.29,1527.19
+PROD0159,Household,Floor Cleaner,HomePlus Floor Cleaner 461,HomePlus,2004.4,2683.06
+PROD0160,Household,Garbage Bags,FreshChoice Garbage Bags 394,FreshChoice,1758.03,2214.37
+PROD0161,Household,Detergent,SmartBuy Detergent 177,SmartBuy,1690.77,2629.43
+PROD0162,Household,Garbage Bags,UrbanMart Garbage Bags 687,UrbanMart,1201.86,1571.28
+PROD0163,Household,Dishwash,UrbanMart Dishwash 294,UrbanMart,2368.85,3510.75
+PROD0164,Household,Tissue,HomePlus Tissue 371,HomePlus,602.46,752.04
+PROD0165,Household,Floor Cleaner,HomePlus Floor Cleaner 733,HomePlus,522.86,654.8
+PROD0166,Household,Dishwash,UrbanMart Dishwash 180,UrbanMart,1951.77,2309.99
+PROD0167,Household,Tissue,FreshChoice Tissue 143,FreshChoice,1915.33,2694.83
+PROD0168,Household,Tissue,PrimeLife Tissue 688,PrimeLife,1559.26,2153.25
+PROD0169,Household,Dishwash,NatureNest Dishwash 623,NatureNest,473.52,722.15
+PROD0170,Household,Dishwash,SmartBuy Dishwash 155,SmartBuy,570.79,813.74
+PROD0171,Household,Garbage Bags,SmartBuy Garbage Bags 614,SmartBuy,1206.23,1696.69
+PROD0172,Household,Dishwash,SmartBuy Dishwash 568,SmartBuy,2153.79,3297.95
+PROD0173,Household,Detergent,NatureNest Detergent 790,NatureNest,802.82,902.74
+PROD0174,Household,Floor Cleaner,SmartBuy Floor Cleaner 727,SmartBuy,1460.9,1888.19
+PROD0175,Household,Dishwash,UrbanMart Dishwash 582,UrbanMart,1380.44,1719.59
+PROD0176,Household,Garbage Bags,PrimeLife Garbage Bags 315,PrimeLife,927.49,1283.97
+PROD0177,Household,Tissue,PrimeLife Tissue 561,PrimeLife,925.39,1232.91
+PROD0178,Household,Floor Cleaner,UrbanMart Floor Cleaner 933,UrbanMart,2448.6,3632.71
+PROD0179,Household,Detergent,ValueMax Detergent 976,ValueMax,2014.14,2848.66
+PROD0180,Household,Tissue,HomePlus Tissue 253,HomePlus,381.69,621.52
+PROD0181,Household,Tissue,FreshChoice Tissue 969,FreshChoice,457.99,634.22
+PROD0182,Household,Garbage Bags,PrimeLife Garbage Bags 675,PrimeLife,1967.63,2516.63
+PROD0183,Household,Garbage Bags,FreshChoice Garbage Bags 161,FreshChoice,1008.04,1497.94
+PROD0184,Household,Floor Cleaner,ValueMax Floor Cleaner 560,ValueMax,1201.82,1747.24
+PROD0185,Household,Dishwash,ValueMax Dishwash 929,ValueMax,915.19,1296.81
+PROD0186,Household,Dishwash,PrimeLife Dishwash 988,PrimeLife,69.19,81.94
+PROD0187,Household,Garbage Bags,HomePlus Garbage Bags 651,HomePlus,1450.6,2124.3
+PROD0188,Household,Floor Cleaner,ValueMax Floor Cleaner 599,ValueMax,900.67,1330.1
+PROD0189,Household,Tissue,DailyBest Tissue 746,DailyBest,965.06,1227.42
+PROD0190,Household,Floor Cleaner,UrbanMart Floor Cleaner 531,UrbanMart,1608.64,2593.35
+PROD0191,Household,Garbage Bags,SmartBuy Garbage Bags 265,SmartBuy,2125.27,2460.66
+PROD0192,Household,Dishwash,HomePlus Dishwash 827,HomePlus,797.44,1169.12
+PROD0193,Household,Dishwash,SmartBuy Dishwash 983,SmartBuy,692.7,939.16
+PROD0194,Household,Dishwash,NatureNest Dishwash 123,NatureNest,1046.69,1274.3
+PROD0195,Household,Floor Cleaner,HomePlus Floor Cleaner 817,HomePlus,1661.82,2689.54
+PROD0196,Household,Detergent,HomePlus Detergent 165,HomePlus,433.94,509.7
+PROD0197,Household,Tissue,FreshChoice Tissue 883,FreshChoice,85.38,113.59
+PROD0198,Household,Detergent,DailyBest Detergent 770,DailyBest,670.88,806.6
+PROD0199,Household,Tissue,ValueMax Tissue 553,ValueMax,588.8,889.63
+PROD0200,Household,Floor Cleaner,UrbanMart Floor Cleaner 135,UrbanMart,1326.32,1605.41
+PROD0201,Personal Care,Toothpaste,PrimeLife Toothpaste 991,PrimeLife,2163.32,2958.58
+PROD0202,Personal Care,Body Lotion,ValueMax Body Lotion 814,ValueMax,1380.39,1644.89
+PROD0203,Personal Care,Body Lotion,UrbanMart Body Lotion 866,UrbanMart,1485.26,2022.88
+PROD0204,Personal Care,Body Lotion,SmartBuy Body Lotion 417,SmartBuy,1318.18,1923.16
+PROD0205,Personal Care,Toothpaste,NatureNest Toothpaste 552,NatureNest,1358.38,2100.73
+PROD0206,Personal Care,Toothpaste,PrimeLife Toothpaste 110,PrimeLife,1042.27,1253.36
+PROD0207,Personal Care,Shampoo,UrbanMart Shampoo 108,UrbanMart,872.83,1194.62
+PROD0208,Personal Care,Face Wash,NatureNest Face Wash 917,NatureNest,763.03,1164.32
+PROD0209,Personal Care,Toothpaste,HomePlus Toothpaste 293,HomePlus,1995.98,2815.43
+PROD0210,Personal Care,Face Wash,SmartBuy Face Wash 854,SmartBuy,998.99,1205.31
+PROD0211,Personal Care,Face Wash,SmartBuy Face Wash 740,SmartBuy,567.07,658.92
+PROD0212,Personal Care,Soap,ValueMax Soap 928,ValueMax,726.0,1098.98
+PROD0213,Personal Care,Toothpaste,SmartBuy Toothpaste 239,SmartBuy,486.24,562.23
+PROD0214,Personal Care,Toothpaste,DailyBest Toothpaste 378,DailyBest,1599.49,2315.1
+PROD0215,Personal Care,Body Lotion,NatureNest Body Lotion 150,NatureNest,485.72,549.0
+PROD0216,Personal Care,Body Lotion,FreshChoice Body Lotion 375,FreshChoice,481.13,564.95
+PROD0217,Personal Care,Soap,NatureNest Soap 254,NatureNest,1823.23,2266.99
+PROD0218,Personal Care,Shampoo,NatureNest Shampoo 904,NatureNest,558.63,750.09
+PROD0219,Personal Care,Face Wash,PrimeLife Face Wash 438,PrimeLife,1169.94,1801.07
+PROD0220,Personal Care,Shampoo,UrbanMart Shampoo 173,UrbanMart,,243.41
+PROD0221,Personal Care,Body Lotion,NatureNest Body Lotion 356,NatureNest,470.38,750.12
+PROD0222,Personal Care,Face Wash,FreshChoice Face Wash 354,FreshChoice,322.46,492.43
+PROD0223,Personal Care,Face Wash,NatureNest Face Wash 303,NatureNest,632.96,1042.55
+PROD0224,Personal Care,Face Wash,DailyBest Face Wash 584,DailyBest,1312.43,2153.07
+PROD0225,Personal Care,Face Wash,ValueMax Face Wash 845,ValueMax,2341.81,2819.69
+PROD0226,Personal Care,Shampoo,DailyBest Shampoo 303,DailyBest,648.22,945.37
+PROD0227,Personal Care,Toothpaste,FreshChoice Toothpaste 215,FreshChoice,2161.87,2670.83
+PROD0228,Personal Care,Soap,SmartBuy Soap 382,SmartBuy,824.79,996.92
+PROD0229,Personal Care,Body Lotion,DailyBest Body Lotion 143,DailyBest,1001.6,1250.84
+PROD0230,Personal Care,Body Lotion,NatureNest Body Lotion 889,NatureNest,1727.25,2076.41
+PROD0231,Personal Care,Shampoo,HomePlus Shampoo 733,HomePlus,411.09,480.34
+PROD0232,Personal Care,Toothpaste,FreshChoice Toothpaste 818,FreshChoice,168.24,245.9
+PROD0233,Personal Care,Body Lotion,DailyBest Body Lotion 671,DailyBest,332.05,412.84
+PROD0234,Personal Care,Toothpaste,NatureNest Toothpaste 486,NatureNest,1838.31,2079.71
+PROD0235,Personal Care,Toothpaste,UrbanMart Toothpaste 823,UrbanMart,641.73,732.17
+PROD0236,Personal Care,Face Wash,ValueMax Face Wash 680,ValueMax,1365.98,1884.71
+PROD0237,Personal Care,Soap,PrimeLife Soap 988,PrimeLife,822.73,1125.7
+PROD0238,Personal Care,Body Lotion,UrbanMart Body Lotion 402,UrbanMart,190.81,229.38
+PROD0239,Personal Care,Toothpaste,PrimeLife Toothpaste 618,PrimeLife,1146.12,1754.98
+PROD0240,Personal Care,Face Wash,UrbanMart Face Wash 472,UrbanMart,2209.67,3200.62
+PROD0241,Personal Care,Body Lotion,HomePlus Body Lotion 651,HomePlus,815.32,940.53
+PROD0242,Personal Care,Face Wash,HomePlus Face Wash 664,HomePlus,1319.69,1826.06
+PROD0243,Personal Care,Soap,ValueMax Soap 213,ValueMax,820.05,1197.01
+PROD0244,Personal Care,Shampoo,DailyBest Shampoo 282,DailyBest,128.57,207.9
+PROD0245,Personal Care,Shampoo,HomePlus Shampoo 132,HomePlus,285.5,348.75
+PROD0246,Personal Care,Body Lotion,SmartBuy Body Lotion 818,SmartBuy,1651.64,2310.12
+PROD0247,Personal Care,Body Lotion,ValueMax Body Lotion 835,ValueMax,141.73,175.32
+PROD0248,Personal Care,Shampoo,FreshChoice Shampoo 603,FreshChoice,2326.92,2863.58
+PROD0249,Personal Care,Shampoo,NatureNest Shampoo 671,NatureNest,2006.53,2311.87
+PROD0250,Personal Care,Face Wash,PrimeLife Face Wash 731,PrimeLife,1989.74,2289.99
+PROD0251,Electronics,Iron,FreshChoice Iron 179,FreshChoice,1841.06,2876.22
+PROD0252,Electronics,Electric Kettle,DailyBest Electric Kettle 494,DailyBest,271.04,336.75
+PROD0253,Electronics,Electric Kettle,HomePlus Electric Kettle 740,HomePlus,1324.96,1658.64
+PROD0254,Electronics,Electric Kettle,SmartBuy Electric Kettle 690,SmartBuy,1870.35,2854.4
+PROD0255,Electronics,Iron,NatureNest Iron 206,NatureNest,1762.33,2372.71
+PROD0256,Electronics,Electric Kettle,UrbanMart Electric Kettle 773,UrbanMart,1383.91,1920.16
+PROD0257,Electronics,Electric Kettle,NatureNest Electric Kettle 663,NatureNest,2335.13,3732.28
+PROD0258,Electronics,Iron,PrimeLife Iron 945,PrimeLife,1042.61,1517.64
+PROD0259,Electronics,Iron,HomePlus Iron 884,HomePlus,1416.6,1747.21
+PROD0260,Electronics,LED Bulb,ValueMax LED Bulb 506,ValueMax,912.82,1241.23
+PROD0261,Electronics,Mixer Grinder,FreshChoice Mixer Grinder 630,FreshChoice,2457.73,3528.7
+PROD0262,Electronics,Electric Kettle,ValueMax Electric Kettle 319,ValueMax,36.29,59.58
+PROD0263,Electronics,Iron,FreshChoice Iron 942,FreshChoice,1933.38,3132.03
+PROD0264,Electronics,Iron,UrbanMart Iron 259,UrbanMart,253.83,346.22
+PROD0265,Electronics,Electric Kettle,ValueMax Electric Kettle 338,ValueMax,930.37,1329.07
+PROD0266,Electronics,Iron,ValueMax Iron 322,ValueMax,247.92,330.2
+PROD0267,Electronics,Mixer Grinder,PrimeLife Mixer Grinder 945,PrimeLife,1986.4,2406.8
+PROD0268,Electronics,LED Bulb,DailyBest LED Bulb 848,DailyBest,1496.17,1913.91
+PROD0269,Electronics,LED Bulb,SmartBuy LED Bulb 889,SmartBuy,214.62,246.74
+PROD0270,Electronics,Iron,PrimeLife Iron 988,PrimeLife,2201.89,2972.95
+PROD0271,Electronics,Mixer Grinder,  HomePlus Mixer Grinder 111 ,HomePlus,1874.24,2942.98
+PROD0272,Electronics,Table Fan,FreshChoice Table Fan 652,FreshChoice,775.86,885.9
+PROD0273,Electronics,LED Bulb,UrbanMart LED Bulb 256,UrbanMart,830.54,1237.35
+PROD0274,Electronics,Mixer Grinder,SmartBuy Mixer Grinder 689,SmartBuy,2428.18,3688.42
+PROD0275,Electronics,LED Bulb,DailyBest LED Bulb 503,DailyBest,570.77,726.92
+PROD0276,Electronics,Electric Kettle,UrbanMart Electric Kettle 863,UrbanMart,853.7,1171.45
+PROD0277,Electronics,Mixer Grinder,SmartBuy Mixer Grinder 544,SmartBuy,671.14,893.43
+PROD0278,Electronics,Electric Kettle,UrbanMart Electric Kettle 504,UrbanMart,1212.69,1485.54
+PROD0279,Electronics,LED Bulb,HomePlus LED Bulb 636,HomePlus,1411.7,2327.12
+PROD0280,Electronics,Electric Kettle,HomePlus Electric Kettle 431,HomePlus,197.68,302.78
+PROD0281,Electronics,LED Bulb,DailyBest LED Bulb 474,DailyBest,299.07,400.51
+PROD0282,Electronics,Iron,HomePlus Iron 124,HomePlus,815.43,1169.94
+PROD0283,Electronics,Iron,UrbanMart Iron 922,UrbanMart,2469.38,3572.2
+PROD0284,Electronics,Table Fan,UrbanMart Table Fan 339,UrbanMart,1112.35,1790.7
+PROD0285,Electronics,Electric Kettle,PrimeLife Electric Kettle 187,PrimeLife,406.86,612.77
+PROD0286,Electronics,Mixer Grinder,FreshChoice Mixer Grinder 251,FreshChoice,622.76,902.46
+PROD0287,Electronics,Iron,FreshChoice Iron 412,FreshChoice,871.31,1347.28
+PROD0288,Electronics,Table Fan,NatureNest Table Fan 650,NatureNest,76.42,94.06
+PROD0289,Electronics,Electric Kettle,HomePlus Electric Kettle 661,HomePlus,1375.13,2087.02
+PROD0290,Electronics,Table Fan,UrbanMart Table Fan 485,UrbanMart,1743.78,2570.64
+PROD0291,Electronics,LED Bulb,FreshChoice LED Bulb 305,FreshChoice,653.53,752.77
+PROD0292,Electronics,LED Bulb,ValueMax LED Bulb 108,ValueMax,151.65,222.47
+PROD0293,Electronics,Mixer Grinder,SmartBuy Mixer Grinder 775,SmartBuy,1657.72,2439.14
+PROD0294,Electronics,Iron,DailyBest Iron 764,DailyBest,67.31,106.33
+PROD0295,Electronics,Table Fan,HomePlus Table Fan 826,HomePlus,2449.89,3404.19
+PROD0296,Electronics,Mixer Grinder,PrimeLife Mixer Grinder 190,PrimeLife,1221.96,1755.3
+PROD0297,Electronics,Electric Kettle,HomePlus Electric Kettle 829,HomePlus,1261.61,1719.24
+PROD0298,Electronics,Mixer Grinder,FreshChoice Mixer Grinder 441,FreshChoice,633.53,887.32
+PROD0299,Electronics,Table Fan,SmartBuy Table Fan 800,SmartBuy,1866.09,2108.19
+PROD0300,Electronics,Iron,PrimeLife Iron 613,PrimeLife,1570.57,1955.66
+PROD0040,Grocery,Spices,ValueMax Spices 393,ValueMax,1880.46,2266.51
+PROD0039,Grocery,Flour,FreshChoice Flour 157,FreshChoice,964.56,1107.43
+PROD0184,Household,Floor Cleaner,ValueMax Floor Cleaner 560,ValueMax,1201.82,1747.24
+PROD0014,Grocery,Spices,SmartBuy Spices 570,SmartBuy,1020.13,1269.6
+PROD0091,Beverages,Soft Drink,HomePlus Soft Drink 178,HomePlus,672.82,1069.62
+PROD0166,Household,Dishwash,UrbanMart Dishwash 180,UrbanMart,1951.77,2309.99

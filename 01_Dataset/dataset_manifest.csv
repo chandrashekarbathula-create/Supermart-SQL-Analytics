@@ -1,0 +1,5 @@
+File,Rows,Columns,Purpose_and_Controlled_Issues
+customers_raw.csv,1012,10,"Customer master; controlled duplicates, blanks, whitespace, inconsistent case, suspicious age"
+products_raw.csv,306,7,"Product master; controlled duplicates, blanks, whitespace, inconsistent categories"
+sales_raw.csv,10020,13,"Order-line transactions (2022-2025); controlled duplicates, invalid dates, orphan IDs, invalid business values"
+returns_raw.csv,808,7,"Returns; controlled duplicates, invalid date, missing refund, orphan order, inconsistent text"
